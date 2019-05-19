@@ -290,6 +290,7 @@ NSISFunction(CreateAccount)
 		ui.usri1_home_dir = NULL;
 		ui.usri1_comment = u_comment;
 		ui.usri1_flags = UF_DONT_EXPIRE_PASSWD | UF_SCRIPT;
+		ui.usri1_script_path = NULL;
 
 
 		//
