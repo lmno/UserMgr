@@ -13,4 +13,4 @@ I made this fork because I wanted to fix the a bug in `UserMgr::CreateAccount`. 
 ## License
 The original code contain no license and I do not claim any ownership of this code.
 
-> Note: This code is old and made for older versions of Windows and I have made no attempt to ensure or verify that this plugin is fully Windows 10 compatible. Though I use some of these commands on Windows 10 myself, I make no guarantee. Use this at your own risk.
+> Note: This code is old and made for older versions of Windows and I have made no attempt to ensure or verify that this plugin is fully compatible on Windows 10 or any other Windows versions. Though I use some of these commands on Windows 10 myself, I make no guarantee. Use this at your own risk.
