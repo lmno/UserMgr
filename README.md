@@ -1,0 +1,2 @@
+# UserMgr
+NSIS UserMgr plugin
