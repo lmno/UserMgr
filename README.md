@@ -8,7 +8,7 @@ This plugin was originally created by [Heiko Gerstung](https://nsis.sourceforge.
 
 This code is based on the modifications made by [JasonFriday13 ](http://forums.winamp.com/member.php?u=173435) and posted to the [WinAmp forum](http://forums.winamp.com/showpost.php?p=3001678&postcount=51) which adds Unicode support.
 
-I made this fork because I wanted to fix the a bug in `UserMgr::CreateAccount`. The login script path of newly created users where uninitialized, filling it with random garbage which produced an error when you open the user property editor. I have upgraded the project and compiled it with Visual Studio 2019.
+I made this fork because I wanted to fix a bug in `UserMgr::CreateAccount`. The login script path of newly created users where uninitialized, filling it with random garbage which produced an error when you open the user property editor. I have upgraded the project and compiled it with Visual Studio 2019.
 
 ## License
 The original code contain no license and I do not claim any ownership of this code.
